@@ -1,35 +1,11 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/bottlesdevs/Bottles/main/data/icons/hicolor/scalable/apps/com.usebottles.bottles.svg" width="64">
-  <h1 align="center">Bottles</h1>
-  <p align="center">Run Windows Software on Linux</p>
+  <h1 align="center">NotWorkingBottles</h1>
+  <p align="center">Can't run windows software on linux</p>
 </div>
 
 <br/>
 
-<div align="center">
-  <a href="https://flathub.org/apps/com.usebottles.bottles">
-    <img alt="Flathub" src="https://img.shields.io/flathub/downloads/com.usebottles.bottles" />
-  </a>
-  <a href="https://hosted.weblate.org/engage/bottles">
-    <img src="https://hosted.weblate.org/widgets/bottles/-/bottles/svg-badge.svg" />
-  </a>
-  <a href="https://www.codefactor.io/repository/github/bottlesdevs/bottles/overview/main">
-    <img src="https://www.codefactor.io/repository/github/bottlesdevs/bottles/badge/main" />
-  </a>
-  <a href="https://github.com/bottlesdevs/Bottles/blob/main/LICENSE">
-    <img src="https://img.shields.io/badge/License-GPL--3.0-blue.svg">
-  </a>
-  <br>
-  <a href="https://stopthemingmy.app" title="Please do not theme this app">
-    <img src="https://stopthemingmy.app/badge.svg">
-  </a>
-
-  <hr />
-
-  <a href="https://docs.usebottles.com">Documentation</a> ·
-  <a href="https://github.com/orgs/bottlesdevs/discussions">Forums</a> ·
-  <a href="https://discord.gg/wF4JAdYrTR">Discord</a> ·
-  <a href="https://usebottles.com/funding">Funding</a>
 </div>
 
 <br/>
